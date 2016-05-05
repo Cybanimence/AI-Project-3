@@ -1,0 +1,15 @@
+#### imageRec.py ####
+To use the program, execute the following command:
+python imageRec.py <filename>
+
+Where filename is a 100x100 pixel image file.
+
+The program has the following dependencies:
+-Python 2.7
+-OpenCV
+-Numpy
+
+Notice:
+This program is designed only to handle 100x100 pixel images
+JPEG is the recommended image format
+This program trains off images found in the folder 'Data', which contains various images provided by the instructor
